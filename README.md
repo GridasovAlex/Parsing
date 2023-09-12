@@ -1,5 +1,4 @@
 # Parsing
-***
-## This repository is dedicated to my parsing practices
-* [methods.ipynb - file with the methods I use](https://github.com/GridasovAlex/Parsing/blob/main/methods.ipynb)
-* [playgroundry_parsing.ipynb - working with the www.playground.ru website](https://github.com/GridasovAlex/Parsing/blob/main/playgroundry_parsing.ipynb)
+## Этот репозиторий посвящен парсингу
+* [methods.ipynb - методы, используемые мной во время парсинга](https://github.com/GridasovAlex/Parsing/blob/main/methods.ipynb)
+* [playgroundry_parsing.ipynb - работа с сайтом www.playground.ru](https://github.com/GridasovAlex/Parsing/blob/main/playgroundry_parsing.ipynb)
